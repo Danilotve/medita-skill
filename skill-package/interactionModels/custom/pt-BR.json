@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "budismo",
+      "invocationName": "budismo barbara",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
