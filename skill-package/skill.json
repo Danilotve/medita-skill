@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:875800534004:function:14fd1e5e-5e7a-43c3-9a77-68a840f5028d:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:875800534004:function:14fd1e5e-5e7a-43c3-9a77-68a840f5028d:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:875800534004:function:14fd1e5e-5e7a-43c3-9a77-68a840f5028d:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:875800534004:function:14fd1e5e-5e7a-43c3-9a77-68a840f5028d:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "pt-BR": {
+          "name": "budismo"
+        }
+      }
+    }
+  }
+}
