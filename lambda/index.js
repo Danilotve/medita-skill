@@ -8,7 +8,7 @@ const LaunchRequestHandler = {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest';
     },
     handle(handlerInput) {
-        const speakOutput = 'bem vindo, deseja meditar right now?';
+        const speakOutput = 'bem vindo, deseja meditar com debug novo?';
         return handlerInput.responseBuilder
             .speak(speakOutput)
             .reprompt(speakOutput)
